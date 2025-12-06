@@ -1,0 +1,18 @@
+# LangChain and related graph/tool packages
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langgraph
+tavily-python
+
+# Google client libraries for authentication and API access
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# Pydantic v1 for LangChain compatibility, as indicated by the pydantic_v1 import
+pydantic<2
+
+# Utility for loading environment variables from a .env file
+python-dotenv
